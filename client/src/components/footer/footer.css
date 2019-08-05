@@ -1,0 +1,126 @@
+.footer-navbar-brand{
+    color:black;
+    font-size: 14px;
+    margin-left:80px;
+}
+
+.instagram-link{
+    height:30px;
+    width:30px;
+    margin-left:50px;
+}
+
+.facebook-link{
+    margin-left:20px;
+    height:30px;
+    width:30px;
+}
+
+.footer-navbar{
+    height:65px;
+    background-color:#8bffff;
+    border-top: 10px solid white;
+    margin-top:0px;
+    opacity:0.6;
+}
+
+#phone-logo{
+    height:25px;
+    width:25px;
+}
+
+#email-logo{
+    height:15px;
+    width:20px;
+    margin-right:5px;
+    margin-left:100px;
+}
+
+.footer-nav-item{
+    margin-left:20px;
+}
+
+@media only screen and (max-width:1220px){
+    .instagram-link,
+    .facebook-link {
+        margin-left:10px;
+        margin-top:8px;
+    }
+    .footer-navbar-brand{
+        margin-left:0px;
+    }
+
+    .phone-number,
+    .email-address{
+        margin-top:8px;
+    }
+    .instagram-link,
+    .facebook-link{
+        margin-top:3px;
+    }
+}
+
+@media only screen and (max-width:1000px){
+    .phone-number{
+        margin-left:0px;
+        margin-top:5px;
+        width:130px;
+    }
+    .email-address{
+        width:220px;
+    }
+    #email-logo{
+        margin:0px;
+    }
+    .footer-navbar-brand{
+        margin-right:0px;
+    }
+    .footer-navbar-brand, 
+    .phone-number,
+    .email-address{
+        font-size: 12px;
+    }
+
+}
+
+@media only screen and (max-width:730px){
+    .footer-navbar-brand, 
+    .phone-number,
+    .email-address{
+        margin-right:0px;
+        font-size: 10px;
+    }
+    .instagram-link,
+    .facebook-link{
+        height:20px;
+        width:20px;
+        padding:0px;
+        margin:0px;
+    }
+    .phone-number{
+        margin-top:0px;
+    }
+    .email-address{
+        margin:0px;
+        padding-top:10px;
+    }
+}
+
+@media only screen and (max-width:680px){
+    .footer-navbar-brand,
+    .email-address,
+    .phone-number{
+       font-size:8px;
+       margin-right:75px;
+    }
+    .email-address{
+       width:180px;
+       margin-top:5px;
+    }
+    .phone-number{
+        margin-top:3px;
+    }
+    .footer-navbar-brand{
+       display:none;    
+    }
+}

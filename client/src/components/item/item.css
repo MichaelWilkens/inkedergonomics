@@ -1,0 +1,26 @@
+#item-div{
+    padding:100px;
+    background-color: white;
+}
+
+#item-image{
+    height:400px;
+    width:500px;
+    display:inline-block;
+    margin-top:-150px;
+}
+
+#checkout-area{
+    display:inline-block;
+    margin-left:50px;
+    color:#909090;
+}
+
+#price-range{
+    padding-top:100px;
+}
+
+#paypal-button{
+    margin-top:20px;
+    /* margin-left:50px; */
+}

@@ -1,0 +1,66 @@
+#contact-background-image{
+    position:fixed;
+    width:100vw;
+    top:0px;
+    right:0px;
+    opacity:0.5
+}
+
+#card-div{
+    text-align: center;
+}
+
+#map{
+    height:300px;
+    width:300px;
+    display:inline-block;
+}
+
+.contact-card{
+    width: 300px;
+    margin:10px;
+    display:inline-block;
+}
+
+#contact-instagram-logo{
+    height:80px;
+    width:200px;
+    margin:25px;
+}
+
+#contact-instagram-a-tag{
+    color:black;
+}
+
+#contact-instagram-a-tag:hover{
+    color:blue;
+}
+
+#contact-phone-logo{
+    height:100px;
+    margin-bottom:20px;
+    width:100px;
+    margin-bottom:20px;
+}
+
+#contact-email-logo{
+    height:100px;
+    width:150px;
+    margin-bottom:28px;
+}
+
+#contact-blue-bar{
+    height:50px;
+    margin-bottom:100px;
+}
+
+#contact-banner{
+    text-align: center;
+    margin-bottom:150px;
+}
+
+.contact-image{
+    margin:50px;
+    height:500px;
+    width:500px;
+}

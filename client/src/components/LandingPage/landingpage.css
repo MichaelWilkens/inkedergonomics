@@ -1,0 +1,39 @@
+
+
+.jumbotron{
+    padding:10px 0px;
+    margin:20px 0px 20px 0px;
+    text-align: center;    
+    background-color: transparent;
+    color:white;
+    opacity:0.8;
+}
+
+.jumbo-text:hover{
+    font-weight:bold;
+}
+
+.jumbotron-button{
+    background-color: #8bffff;
+}
+
+ #background-photo-container{
+    overflow:hidden;
+    height:540px;
+    display:block;
+    margin:0px auto;
+    text-align:center;
+}
+
+#background-photo-side{
+    position:fixed;
+    top:-10px;
+    width:100vw;
+    opacity:0.4;
+    animation: fadein 10s;
+}
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 0.4; }
+}
