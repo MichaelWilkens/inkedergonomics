@@ -30,7 +30,7 @@ class Shop extends Component {
                                     <div className="shop-cbd-card-body card-body">
                                         <h5 className="shop-cbd-card-title card-title">CBD Isolate Infused Capsules</h5>
                                         <p className="shop-cbd-card-text card-text">25, 50, 100, 150, 200 mg of CBD Isolate per capsule options available</p>
-                                        <a href="/item?itemNumber=0" className="shop-cbd-card-button btn btn-primary">$29.99 -$139.99</a>
+                                        <a href="/item?itemNumber=0" className="shop-cbd-card-button btn btn-primary">$39.99 -$149.99</a>
                                     </div>
                                 </div>
                                 <div className="card shop-cbd-card" >
@@ -38,7 +38,7 @@ class Shop extends Component {
                                     <div className="shop-cbd-card-body card-body">
                                         <h5 className="shop-cbd-card-title card-title">Full Spectrum Tincture</h5>
                                         <p className="shop-cbd-card-text card-text">500, 1000, and 2000 mg of CBD Isolate options available</p>
-                                        <a href="/item?itemNumber=1" className="shop-cbd-card-button btn btn-primary">$19.99 - $59.99</a>
+                                        <a href="/item?itemNumber=1" className="shop-cbd-card-button btn btn-primary">$29.99 - $69.99</a>
                                     </div>
                                 </div>
                                 <div className="card shop-cbd-card" >
@@ -46,7 +46,7 @@ class Shop extends Component {
                                     <div className="shop-cbd-card-body card-body">
                                         <h5 className="shop-cbd-card-title card-title">Full Spectrum Body Butter</h5>
                                         <p className="shop-cbd-card-text card-text">250 mg of cannabinoids in 1 ounce container.</p>
-                                        <a href="/item?itemNumber=2" className="shop-cbd-card-button btn btn-primary">$29.99</a>
+                                        <a href="/item?itemNumber=2" className="shop-cbd-card-button btn btn-primary">$39.99</a>
                                     </div>
                                 </div>
                                 {/* <div className="card shop-cbd-card" >
